@@ -1,5 +1,4 @@
 module Squeegee
-
-# Write your package code here.
-
+export hw
+include("functions.jl")
 end
